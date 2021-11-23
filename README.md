@@ -1,3 +1,5 @@
+# 基于vue指令（directive）图片懒加载，功能相对简单，仅提供学习交流。
+
 # vue-lazyload
 
 ## Project setup
