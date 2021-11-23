@@ -1,2 +1,17 @@
 # vue-lazyload
-基于vue指令（directive）图片懒加载
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run start
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
